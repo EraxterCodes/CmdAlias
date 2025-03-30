@@ -1,0 +1,8 @@
+## CmdAlias.toc
+## Interface: 100000
+## Title: CmdAlias |cff00ff00(v1.0)|r
+## Notes: Allows players to create custom chat command aliases.
+## Author: Eraxter
+## Version: 1.0
+## SavedVariables: CmdAliasDB
+CmdAlias.lua
